@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iniya-Varshini
-- 👀 I’m interested in programming
+- 👀 I’m interested in listening music 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on all programming languages
 - 📫 How to reach me through email:iniyavarshinixa@gmail.com
